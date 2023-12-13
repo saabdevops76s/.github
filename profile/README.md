@@ -1,4 +1,4 @@
-# DevOps with AWS - 76S
+# DevOps with AWS - 76s
 
 #### Language: Telugu
 #### Trainer: Sivakumar Reddy
